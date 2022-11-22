@@ -1,6 +1,9 @@
 # GCAME: Gaussian Class Activation Mapping Explainer
 This repo is the official implementation of GCAME.
 
+-----------------------------------------
+GCAME is a CAM-based XAI method which used Gaussian mask and activation map to explain the prediction of Object Detector. It is able to highlight the regions belonging to the target object and can run in very short time.
+
 Authors:
 <br>
 Quoc Khanh Nguyen, Truong Thanh Hung Nguyen, Vo Thanh Khang Nguyen, Van Binh Truong, Quoc Hung Cao
@@ -42,3 +45,9 @@ Quoc Khanh Nguyen, Truong Thanh Hung Nguyen, Vo Thanh Khang Nguyen, Van Binh Tru
 ```
 
 ## Results
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khanhnguyenuet/GCAME/main/figures/method.png">
+</div>
+<p align="center">
+  Figure 1: Pipeline of GCAME.
+</p>
