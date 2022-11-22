@@ -7,7 +7,7 @@ Quoc Khanh Nguyen, Truong Thanh Hung Nguyen, Vo Thanh Khang Nguyen, Van Binh Tru
 
 ## Method
 <div align="center">
-  <img src="GCAME\figures\method.png">
+  <img src="https://raw.githubusercontent.com/khanhnguyenuet/GCAME/main/figures/method.png">
 </div>
 <p align="center">
   Figure 1: Pipeline of GCAME.
