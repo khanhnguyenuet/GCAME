@@ -45,11 +45,3 @@ Quoc Khanh Nguyen, Truong Thanh Hung Nguyen, Vo Thanh Khang Nguyen, Van Binh Tru
 ```
 
 ## Results
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khanhnguyenuet/GCAME/main/figures/1-sup-1.png">
-  <img src= "https://raw.githubusercontent.com/khanhnguyenuet/GCAME/main/figures/2-sup-1.png">
-</div>
-<p align="center">
-  Figure 2: The results of GCAME on Faster-RCNN and YOLOX.
-</p>
